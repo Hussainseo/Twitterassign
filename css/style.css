@@ -27,3 +27,20 @@ body{
     font-size: 20px;
     padding-left: 20px;
 }
+.col3 input{
+    position: relative;
+    width: 100%;
+    border: 0;
+    background-color: #e7ecf0;
+    height: 60px;
+    padding-left: 40px;
+    border-radius: 30px;
+}
+.col3 .icon{
+    position: absolute;
+    top: 32px;
+    right: 328px;
+    font-size: 20px;
+    z-index: 5;
+    color: #748491;
+}
